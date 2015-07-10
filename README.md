@@ -2,16 +2,35 @@
 ## Variables, Types, and Conditional Statements 
 ### Review Questions:  
 
-- What is a variable?  
-- What is a pointer?  
-- Which primitive type is used to represent integer whole numbers?  
-- Which primitive type is used to represent a single character?  
-- Which primitive type is used to represent floating point numbers with single precision?  
+- What is a variable? 
+- A variable is a name that has an associated value. 
+- 
+- What is a pointer? 
+- A pointer is a variable that points to another variable. 
+- 
+- Which primitive type is used to represent integer whole numbers? 
+- int
+- 
+- Which primitive type is used to represent a single character? 
+- char
+- 
+- Which primitive type is used to represent floating point numbers with single precision? 
+- float
+- 
 - Which primitive type is used to represent floating point numbers with double precision?  
-- Which primitive type is used to represent true or false?  
+- double
+- 
+- Which primitive type is used to represent true or false? 
+- BOOL
+- 
 - Which Apple primitive type is used to represent an environment aware integer?  
-- Which Apple primitive type is used to represent an environment aware floating point number?  
-- Which type is used to represent a sequence of characters?  
+- NSInteger
+- 
+- Which Apple primitive type is used to represent an environment aware floating point number?
+- CGFloat
+- 
+- Which type is used to represent a sequence of characters? 
+- NSString
 
 ### Excercises:
 #####*These exercises will test the concepts that we covered in class.*
