@@ -35,7 +35,7 @@
 ### Excercises:
 #####*These exercises will test the concepts that we covered in class.*
 
-For the following exercises try running your program multiple times each time with a different value of n to make sure it is working correctly.
+For the following exercises try running your program multiple times each time with a different value of n to make sure it is working correctly. Going to do the exercises in Xcode.
 
 - Write a program that initializes a variable, `n`, of type **int** with a number of your choice. If `n` is odd then your      program should print the word "odd". If `n` is even then it should print the word "even".
 
